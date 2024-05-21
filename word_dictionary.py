@@ -1,3 +1,5 @@
+# Python project for finding meaning of any word 
+
 from PyDictionary import PyDictionary
 
 # Initialize the PyDictionary object
